@@ -59,6 +59,6 @@ Note: A dedicated dial-in number can only be assigned to one user at a time.
 
 ### Pricing
 
-_> Zoom buisniness account $19.99 per month. \(10 minimum\)
-_> Custom dial in number $100 per month
-\_> Total: $300 a month to start
+- Zoom buisniness account $19.99 per month. \(10 minimum\)
+- Custom dial in number $100 per month
+- Total: $300 a month to start
