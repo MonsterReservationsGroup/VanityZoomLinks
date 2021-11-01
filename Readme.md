@@ -37,11 +37,11 @@ Zoom acts as the Service Provider (SP), and offers automatic user provisioning. 
 
 #### Examples
 
-> "hooli.com" should apply for "hooli.zoom.us".
-> “hooli.org” should apply for “hooli-org.zoom.us”
-> “hooli.com.au” should apply for “hooli-au.zoom.us”
-> “hooli.org.au” should apply for “hooli-org-au.zoom.us”
-> "hooli.edu" should apply for "hooli-edu.zoom.us"
+> - "hooli.com" should apply for "hooli.zoom.us".
+> - “hooli.org” should apply for “hooli-org.zoom.us”
+> - “hooli.com.au” should apply for “hooli-au.zoom.us”
+> - “hooli.org.au” should apply for “hooli-org-au.zoom.us”
+> - "hooli.edu" should apply for "hooli-edu.zoom.us"
 
 ### Dedicated Dial-in Number
 
@@ -59,6 +59,6 @@ Note: A dedicated dial-in number can only be assigned to one user at a time.
 
 ### Pricing
 
-- Zoom buisniness account $19.99 per month. \(10 minimum\)
-- Custom dial in number $100 per month
-- Total: $300 a month to start
+> - Zoom buisniness account $19.99 per month. \(10 minimum\)
+> - Custom dial in number $100 per month
+> - Total: $300 a month to start
